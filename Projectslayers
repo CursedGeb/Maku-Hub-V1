@@ -10,6 +10,6 @@ end
 
 if game.PlaceId == 11468075017 then
     pcall(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/MakuGeb/Maku-Hub-V1/main/Maku%20Hub%20v1.lua"))()  --loadsting
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/MakuGeb/Maku-Hub-V1/main/Maku%20Hub%20Dungeon"))()  --loadsting
     end)
 end
