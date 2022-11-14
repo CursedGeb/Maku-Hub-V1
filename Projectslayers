@@ -8,8 +8,3 @@ elseif game.PlaceId == 11468159863 then -- Map 2
 	end)
 end
 
-elseif game.PlaceId == 11468075017 then -- Dungeon
-	pcall(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/MakuGeb/Maku-Hub-V1/main/Maku%20Hub%20Dungeon"))() 
-	end)
-end
